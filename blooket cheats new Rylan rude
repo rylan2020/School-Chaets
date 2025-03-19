@@ -1377,8 +1377,8 @@
                 })
             }
         }, {
-            name: "Get Daily Rewards",
-            description: "Gets max daily tokens and xp",
+            name: "Get max daily Rewards",
+            description: "Gets teh absolute max daily tokens and xp",
             run: async function() {
                 let e = document.createElement("iframe");
                 if (document.body.append(e), window.alert = e.contentWindow.alert.bind(window), e.remove(), location.href.includes("play.blooket.com")) {
@@ -1407,8 +1407,8 @@
                                 blookUsed: "Chick",
                                 t,
                                 cash: Math.floor(9e7 * Math.random()) + 1e7,
-                                correctAnswers: Math.floor(500 * Math.random()) + 500,
-                                upgrades: Math.floor(300 * Math.random()) + 300,
+                                correctAnswers: Math.floor(80000 * Math.random()) + 80000,
+                                upgrades: Math.floor(55000 * Math.random()) + 55000,
                                 mode: "Time-Solo",
                                 nameUsed: "You",
                                 place: 1,
@@ -1421,8 +1421,8 @@
                             body: JSON.stringify({
                                 t,
                                 name: a,
-                                addedTokens: 500,
-                                addedXp: 300
+                                addedTokens: 80000,
+                                addedXp: 55000
                             }),
                             credentials: "include",
                             method: "PUT"
