@@ -1,1 +1,2 @@
-Btw the api for kahoots answering system is (
+Btw the api for kahoots answering system is (https://kahoot.it/rest/kahoots/' + quizID)
+the api for quizzez answering system is (coming soon)
