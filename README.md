@@ -2,3 +2,4 @@
 Every single possible school cheat i could make and trust me they work more info coming soon.
 
 Okay the first step to getting school cheats is to copy the code from the cheats and then paste them into violent monkey.
+![image](https://github.com/user-attachments/assets/dee8e7c0-04d5-43fc-9ea4-6a317aeadf7d)
