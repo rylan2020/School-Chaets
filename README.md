@@ -10,3 +10,6 @@ and then click on violent monkey
 ![image](https://github.com/user-attachments/assets/33f51e76-2540-49b9-b537-196c9ce403b9)
 And then click the plus button
 ![image](https://github.com/user-attachments/assets/5343f2d5-f72a-4163-ad92-19bc1cc9e6b1)
+Select all the text and then delete
+![image](https://github.com/user-attachments/assets/afa4ef3f-9cfc-4593-8742-09de71e8a51c)
+go to the github site again and then click on one of the cheats you want im going to click blooket cheats for example
