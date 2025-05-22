@@ -15,3 +15,5 @@ Select all the text and then delete
 go to the github site again and then click on one of the cheats you want im going to click blooket cheats for example
 ![image](https://github.com/user-attachments/assets/0c1c7f2b-f1ee-4233-ac7d-9d818c27608f)
 and then click on the code and click ctrl + a and then crtl + c
+![image](https://github.com/user-attachments/assets/2e900bf1-9488-444f-a380-6e150e77fedd)
+and then go back to the violent monkey tab and paste the code in there
