@@ -8,3 +8,5 @@ And then go to exstensions
 ![image](https://github.com/user-attachments/assets/eaeb8463-a9fb-4439-96fb-619a3b5d5248)
 and then click on violent monkey
 ![image](https://github.com/user-attachments/assets/33f51e76-2540-49b9-b537-196c9ce403b9)
+And then click the plus button
+![image](https://github.com/user-attachments/assets/5343f2d5-f72a-4163-ad92-19bc1cc9e6b1)
