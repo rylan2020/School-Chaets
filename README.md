@@ -13,3 +13,5 @@ And then click the plus button
 Select all the text and then delete
 ![image](https://github.com/user-attachments/assets/afa4ef3f-9cfc-4593-8742-09de71e8a51c)
 go to the github site again and then click on one of the cheats you want im going to click blooket cheats for example
+![image](https://github.com/user-attachments/assets/0c1c7f2b-f1ee-4233-ac7d-9d818c27608f)
+and then click on the code and click ctrl + a and then crtl + c
