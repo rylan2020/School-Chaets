@@ -5,4 +5,4 @@ Okay the first step to getting school cheats is to copy the code from the cheats
 and then install
 ![image](https://github.com/user-attachments/assets/dee8e7c0-04d5-43fc-9ea4-6a317aeadf7d)
 And then go to exstensions
-![image](https://github.com/user-attachments/assets/aebd6985-269a-4657-bfb2-6c0395b21e31)
+![image](https://github.com/user-attachments/assets/eaeb8463-a9fb-4439-96fb-619a3b5d5248)
