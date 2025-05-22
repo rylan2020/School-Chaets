@@ -6,3 +6,5 @@ and then install
 ![image](https://github.com/user-attachments/assets/dee8e7c0-04d5-43fc-9ea4-6a317aeadf7d)
 And then go to exstensions
 ![image](https://github.com/user-attachments/assets/eaeb8463-a9fb-4439-96fb-619a3b5d5248)
+and then click on violent monkey
+![image](https://github.com/user-attachments/assets/33f51e76-2540-49b9-b537-196c9ce403b9)
