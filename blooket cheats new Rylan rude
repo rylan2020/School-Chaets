@@ -180,7 +180,7 @@
             }, c.data.close || {
                 ctrl: !0,
                 key: "x"
-            }], `${[e && "Ctrl", t && "Shift", a && "Alt", o && o.toUpperCase()].filter(Boolean).join(" + ")} to hide | ${[r && "Ctrl", i && "Shift", n && "Alt", s && s.toUpperCase()].filter(Boolean).join(" + ")} for quick disable Click and drag here),
+            }], `${[e && "Ctrl", t && "Shift", a && "Alt", o && o.toUpperCase()].filter(Boolean).join(" + ")} to hide | ${[r && "Ctrl", i && "Shift", n && "Alt", s && s.toUpperCase()].filter(Boolean).join(" + ")} for quick disable Click and drag here`),
             update: ({
                 ctrl: e,
                 shift: t,
@@ -197,7 +197,7 @@
             } = {
                 ctrl: !0,
                 key: "x"
-            }) => m.innerText = `${[e && "Ctrl", t && "Shift", a && "Alt", o && o.toUpperCase()].filter(Boolean).join(" + ")} to hide | ${[r && "Ctrl", i && "Shift", n && "Alt", s && s.toUpperCase()].filter(Boolean).join(" + ")} for quick disable Click and drag here`)
+            }) => m.innerText = `${[e && "Ctrl", t && "Shift", a && "Alt", o && o.toUpperCase()].filter(Boolean).join(" + ")} to hide | ${[r && "Ctrl", i && "Shift", n && "Alt", s && s.toUpperCase()].filter(Boolean).join(" + ")} for quick disable Click and drag here Flood game does not work right now fixing it the crash game button works sometimes dependning on which mode ur playing`
         }), l("div", {
             id: "credits",
             style: {
@@ -847,7 +847,7 @@
                     alert(`(${Date.now() - d}ms) Results: ${Object.entries(c).map(([e, t]) => `    ${e} ${t}`).join(` `)}`)
             }
         }, {
-            name: "Flood Game curently broken",
+            name: "Flood Game",
             description: "Floods a game with a number of fake accounts",
             inputs: [{
                 name: "Name",
