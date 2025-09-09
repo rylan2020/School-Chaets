@@ -220,8 +220,8 @@
                 fontWeight: "700",
                 userSelect: "text"
             },
-            innerHTML: "Too good - Thatoneguy54321/Rylan Rude",
-            onclick: () => window.open("https://github.com/rylan2020/School-Chaets", "_blank").focus()
+            innerHTML: "Too good - Thatoneguy54321/info/Rylan Rude",
+            onclick: () => window.open("https://github.com/rylan2020/School-Chaets/blob/main/blooket%20cheats%20new%20Rylan%20rude", "_blank").focus()
         }), $ = l("div", {
             id: "controlButtons",
             style: {
